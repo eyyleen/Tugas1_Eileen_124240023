@@ -1,0 +1,26 @@
+.title {
+    background-color:rgb(165, 42, 42);
+    color :bisque;
+    border-style: dotted;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 200px;
+}
+
+.subtitle {
+    margin-top: 15px;
+}
+
+.wrap {
+    background-color: rgb(102, 186, 242);
+    width: 800px;
+    color: rgba(0, 0, 0, 0.701);
+    margin: 20px auto;
+    padding: 15px;
+    padding-bottom: 35px;
+    font-family: "Georgia", sans-serif;
+}
+
+.border {
+    border-color: aliceblue;
+}
